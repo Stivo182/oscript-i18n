@@ -1,4 +1,7 @@
-.vscode/*
-oscript_modules/
+# OneScript
 out/
+oscript_modules/
 *.ospx
+
+# VS Code
+.vscode/

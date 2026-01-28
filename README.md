@@ -1,5 +1,9 @@
 # i18n
 
+[![Release](https://img.shields.io/github/release/Stivo182/oscript-i18n.svg)](https://github.com/Stivo182/oscript-i18n/releases)
+[![Тестирование](https://github.com/Stivo182/oscript-i18n/actions/workflows/test.yml/badge.svg)](https://github.com/Stivo182/oscript-i18n/actions/workflows/test.yml)
+[![Used by](https://litrosbadges.ru/package/i18n.svg)](https://litrosbadges.ru/package/i18n)
+
 Библиотека для локализации приложений на OneScript.
 
 ## Установка
